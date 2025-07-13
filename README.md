@@ -2,6 +2,7 @@
 # 👋 Hi, I'm Tehreem Amir!
 Welcome to my GitHub profile!  
 I am a passionate **Mobile Application Developer** with a strong focus on **Flutter**. Currently, I am working on several large-scale Flutter projects, building scalable, high-performance applications for diverse domains.
+![alt-text](https://github.com/tehreemamir123/tehreemamir123/blob/6d63c5f0bef8b99b0d2fa6f036b58a3941df778d/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
 
 ---
 ## 🚀 What I Do
