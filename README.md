@@ -3,7 +3,6 @@
 Welcome to my GitHub profile!  
 I am a passionate **Mobile Application Developer** with a strong focus on **Flutter**. Currently, I am working on several large-scale Flutter projects, building scalable, high-performance applications for diverse domains.
 
-229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif
 ---
 ## 🚀 What I Do
 - **Flutter Development**: Building beautiful, responsive, and robust cross-platform mobile applications.
